@@ -1,0 +1,2 @@
+# funFacts
+Practice using git.
